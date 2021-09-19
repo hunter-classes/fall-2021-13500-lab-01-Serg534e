@@ -7,7 +7,7 @@
 * GitHub username: Serg53.4e
 
 * Notes:
-    test
+    testing
 
 
 * General instructions:
